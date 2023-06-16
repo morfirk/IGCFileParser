@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IGCFileParser", "IGCFileParser.vbproj", "{EA04D0D9-C7DD-487D-8E78-91A3D472F989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA04D0D9-C7DD-487D-8E78-91A3D472F989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA04D0D9-C7DD-487D-8E78-91A3D472F989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA04D0D9-C7DD-487D-8E78-91A3D472F989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA04D0D9-C7DD-487D-8E78-91A3D472F989}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4F2FEC3-3E1A-4E06-B64F-8C2587EEC1E8}
+	EndGlobalSection
+EndGlobal

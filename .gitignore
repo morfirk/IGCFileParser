@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/VB/IGCFileParser/obj
+/VB/IGCFileParser/.vs/IGCFileParser/v16
+/.vs
